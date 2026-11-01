@@ -1,0 +1,9 @@
+Aspectus Lab LLC - certificate signing roots (public keys)
+Made 2026-10-31. Algorithm Ed25519. Each private key was generated inside its own YubiKey (PIV slot 9c) and has no copy.
+Key id = first 8 hex characters of the SHA-256 of the raw 32-byte public key.
+
+root A  id 833c069d  YubiKey serial 37267246
+  5c1ca113b8dd1b16849075a25cc74aaa8db57635c567c912fa47d9e366abe0ba
+
+root B  id 3d5ae145  YubiKey serial 37267275
+  c3561aff4792570ed3ccefc0bedec5d8913a62b8488713d2f1e1a12b12abdef2
