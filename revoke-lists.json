@@ -1,0 +1,6 @@
+[
+ {
+  "rl": "{\"t\":\"revoke-list\",\"v\":1,\"n\":1,\"issued\":\"2026-11-01\",\"root\":\"833c069d\",\"items\":[{\"type\":\"code\",\"id\":\"00JVTAMVGH7H8PE6YD12\",\"at\":\"2026-11-01\"}]}",
+  "sig": "zdQUPdsVCyNIOEQX3svCYsX6DaaPJlxIuvhF6ik2zmcmGq9Y8m3_emcY5ta9l_sn-N9MXwBhHjCst_3CvXHzCQ"
+ }
+]
